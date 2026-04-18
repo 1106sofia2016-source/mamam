@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  background-color:#7c5a99;
+}
+
+/*Зроби цей сайт красивим 😉*/
+h1 {
+text-align:center;
+color:#480e5e;
+justify-content:center;
+
+}
+h2 {
+    color:#481278;
+}
+.polinka{
+   
+    border:10px solid #f07d2b; justify-content:center;
+    
+}
+.melskeli {
+    color:#480e5e;
+    border:5px solid #481278;
+    
+}
+a {
+    text-decoration:none;
+    color: purple;
+    
+}
